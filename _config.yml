@@ -7,7 +7,7 @@ description: "We could run this world"
 keyword: "caoxin9527, AndyCao"
 url: "http://caoxin9527.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/caoxin9527/caoxin9527.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
